@@ -1,0 +1,818 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+section {
+    height: 100vh;
+}
+
+.right {
+    background-color: rgb(43, 43, 43);
+    padding: 10px;
+    display: flex;
+}
+
+.nav1 {
+    padding: 0px 30px 0px 0px;
+    display: flex   ;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.aaa {
+    padding: 10px 30px;
+    font-weight: 400;
+    font-size: 17px;
+    color: white;
+}
+
+.aaa:hover {
+    color: red;
+}
+
+.ri-instagram-line {
+    margin: 5px 0px 0px 0px;
+    font-size: 25px;
+    color: rgb(229, 229, 229);
+}
+
+.moto11 {
+    margin-right: 1000px;
+    color: white;
+    font-size: 24px;
+    padding: 10px 0px 0px 30px;
+    cursor: pointer;
+
+}
+
+
+.moto1 {
+    color: rgb(213, 0, 0);
+    font-size: 24px;
+    padding: 10px 0px 0px 30px;
+    cursor: pointer;
+}
+
+img{
+    width: 100%;
+    height: 800px;
+    object-fit: cover; 
+    object-position: center;
+}
+
+.text1 {
+        position: absolute;
+        top: 300px; /* Розміщення по центру */
+        left: 50px;
+        color: white;
+}
+
+.h11 {
+    font-size: 70px;
+}
+
+.pp {
+    margin-bottom: 10px;
+}
+
+.btn1 {
+    font-size: 20px;
+    background-color: red;
+    width: 200px;
+    padding: 8px 90px 8px 35px;
+    border-radius: 30px;
+    font-weight: 600;
+    margin-top: 30px;
+}
+
+.moto2 {
+    color: red;
+}
+
+.imga {
+    width: 140px;
+    height: 140px;
+    margin: 30px 0px 0px 100px;
+}
+
+.imgaa {
+    width: 150px;
+    height: 150px;
+    margin-left: 230px;
+}
+
+.imgaaa {
+    width: 150px;
+    height: 150px;
+    margin-left: 100px;
+}
+
+.text-img {
+    display: flex;
+}
+.textt {
+    margin: 0px 0px 0px 100px;
+}
+
+.texttt {
+    margin-left: 294px;
+    font-size: 19px;
+    font-weight: 500;
+    margin-top: 15px;
+}
+
+.textttt {
+    margin-left: 190px;
+    font-size: 19px;
+    font-weight: 500;
+    margin-top: 5px;    
+}
+
+.spanuanu {
+    padding-left: 30px;
+    font-size: 19px;
+    font-weight: 500;
+}
+
+.texttttt{
+    margin-left: 170px;
+    font-size: 19px;
+    font-weight: 500;
+    margin-top: 15px;
+}
+
+.textttttt{
+    margin-left: 220px;
+    font-size: 19px;
+    font-weight: 500;
+}
+
+.spanriz {
+    padding: 25px;
+    font-size: 19px;
+    font-weight: 500;
+}
+
+.texttttttt{
+    margin-left: 230px;
+    margin-top: 10px;
+    font-size: 19px;
+    font-weight: 500;
+    margin-top: 15px;
+}
+
+.text-img-a {
+    color: black;
+}
+
+.text-img-a:hover {
+    color: grey;
+}
+
+.h111 {
+    margin-top: 200px;
+    margin-left: 740px;
+    font-size: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+.mo1 {
+    width: 350px;
+    height: 350px;
+    margin-left: 150px;
+}
+.mo11{
+    margin-left: 150px;
+}
+.mo111 {
+    margin-left: 150px;
+}
+.cno1 {
+    margin-left: 410px;
+    margin-top: -30px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-weight: 500;
+}
+.cno1:hover {
+    background-color: rgb(239, 0, 0);
+}
+
+
+
+.mo2 {
+    width: 350px;
+    height: 350px;
+    margin-left: 50px;
+}
+
+.mo22 {
+    margin-left: 50px;
+}
+.mo222{
+    margin-left: 50px;
+}
+.cno2 {
+    margin-left: 320px;
+    margin-top: -30px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-weight: 500;
+}
+.cno2:hover {
+    background-color: rgb(239, 0, 0);
+}
+
+
+
+
+.mo3 {
+    width: 350px;
+    height: 350px;
+    margin-left: 50px;
+}
+.mo33 {
+    margin-left: 50px;
+}
+.mo333 {
+    margin-left: 50px;
+}
+.cno3 {
+    margin-left: 320px;
+    margin-top: -30px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-weight: 500;
+}
+.cno3:hover {
+    background-color: rgb(239, 0, 0);
+}
+
+
+
+.mo4 {
+    width: 350px;
+    height: 350px;
+    margin-left: 50px;
+}
+.mo44 {
+    margin-left: 50px;
+}
+.mo444 {
+    margin-left: 50px;
+}
+.cno4 {
+    margin-left: 320px;
+    margin-top: -30px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-weight: 500;
+}
+.cno4:hover {
+    background-color: rgb(239, 0, 0);
+}
+
+
+
+
+
+.box11 {
+    display: flex;
+    margin-top: 30px;
+}
+
+
+
+
+
+.about {
+    margin-top: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 100px;
+    border: 1px solid grey;
+    background-color: gainsboro;
+    border-radius: 10px;
+    display: flex; 
+}
+
+
+
+.about1 {
+    width: 400px;
+    height: 310px;  
+    object-fit: cover; 
+}
+
+.about11 {
+    margin-left: 300px;
+    margin-right: -200px;
+    margin-top: 10px;
+    font-size: 30px;
+}
+
+.about111 {
+    margin-top: 100px;
+    margin-left: -180px;
+    font-size: 25px;
+} 
+
+.btn112 {
+    padding-top: 70px;
+    margin-left: 50px;
+}
+
+.btn1122 {
+    color: white;
+    background-color: black;
+    padding: 10px 20px;
+}
+
+.botton {
+    height: 150px;
+}
+
+.text-left {
+    display: flex;
+    margin-top: 100px;
+}
+
+.call {
+    font-weight: 400;
+    margin-left: 600px;
+}
+
+.email {
+    font-weight: 400;
+    margin-left: 300px;
+}
+
+.follow {
+    font-weight: 400;
+    margin-left: 300px;
+    margin-bottom: 15px;
+}
+
+
+.title {
+    display: flex;
+}
+
+.nomer {
+    margin-left: 560px;
+    color: black;
+    margin-top: 20px;
+}
+.nomer:hover {
+    color: red;
+}
+
+.emaill {
+    margin-left: 200px;
+    color: black;color: black;
+    margin-top: 20px;
+}
+.emaill:hover {
+    color: red;
+}
+
+.ri-telegram-fill {
+    margin-left: 180px;
+    font-size: 30px;
+    color: black;
+    margin-top: 20px;
+}
+
+.ri-instagram-fill {
+    font-size: 30px;
+    color: black;
+    margin-top: 20px;
+}
+
+.ri-tiktok-fill {
+    font-size: 30px;
+    color: black;
+    margin-top: 20px;
+}
+
+.ri-facebook-circle-fill {
+    font-size: 30px;
+    color: black;
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.poloska {
+    border: .1px solid rgb(199, 194, 194);
+    margin-right: 1700px;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.cat {
+    margin-top: -290px;
+    margin-left: 15px;
+    font-weight: 500;
+}
+
+.foto1 {
+    width: 1600px;
+    height: 300px;
+    margin-left: 300px;
+}
+
+.usi {
+    color: red;
+    margin-left: 15px;
+    margin-top: 15px;
+    text-decoration: underline;
+}
+
+.filter {
+    margin-top: 60px;
+    margin-left: 15px;
+    font-size: 23px
+}
+
+.ruska {
+    border: .1px solid rgb(199, 194, 194);
+    margin-right: 1700px;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.color {
+    margin-top: 15px;
+    margin-left: 15px;
+    font-size: 17px;
+}
+
+.color1{
+    display: flex;
+    margin-top: 15px;
+}
+
+.color11{
+    margin-left: 15px;
+    width: 25px;
+    height: 25px;
+    background-color: white;
+    border: 1px solid grey;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.color22{
+    margin-left: 10px;
+    width: 25px;
+    height: 25px;
+    background-color: black;
+    border: 1px solid grey;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.color33{
+    margin-left: 10px;
+    width: 25px;
+    height: 25px;
+    background-color: pink;
+    border: 1px solid grey;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.color44{
+    margin-left: 10px;
+    width: 25px;
+    height: 25px;
+    background-color: blue;
+    border: 1px solid grey;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.color55{
+    margin-left: 10px;
+    width: 25px;
+    height: 25px;
+    background-color: red   ;
+    border: 1px solid grey;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.color66{
+    margin-left: 10px;
+    width: 25px;
+    height: 25px;
+    background-color: purple;
+    border: 1px solid grey;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+
+.color77 {
+    border: 1px solid rgb(199, 194, 194);
+    margin-right: 1700px;
+    margin-top: 15px;
+    margin-left: 15px; 
+}
+
+.size1 {
+    margin-top: 15px;
+    margin-left: 15px;
+    font-size: 17px;
+}
+
+.size {
+    display: flex;
+    margin-top: 15px;
+    font-size: 17px;
+}
+
+.size11 {
+    margin-left: 15px;
+    cursor: pointer;
+}
+.size2 {
+    margin-left: 12px;
+    cursor: pointer;
+}
+.size3 {
+    margin-left: 12px;
+    cursor: pointer;
+}
+.size4 {
+    margin-left: 12px;
+    cursor: pointer;
+}
+.size5 {
+    margin-left: 12px;
+    cursor: pointer;
+}
+.size6 {
+    margin-left: 12px;
+    cursor: pointer;
+}
+
+.rusca3 {
+    border: 1px solid rgb(199, 194, 194);
+    margin-right: 1700px;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.towar-usi {
+    margin-left: 300px;
+    margin-top: -100px;
+    font-size: 30px;
+}
+
+
+
+
+
+.moo11 {
+    width: 300px;
+    height: 300px;
+    margin-left: 300px;
+}
+.moo111{
+    margin-left: 300px;
+}
+.moo1111 {
+    margin-left: 300px;
+}
+.cnop11 {
+    margin-left: 510px;
+    margin-top: -30px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-weight: 500;
+}
+.cnop11:hover {
+    background-color: rgb(239, 0, 0);
+}
+
+
+
+.moo22 {
+    width: 300px;
+    height: 300px;
+    margin-left: 25px;
+}
+
+.moo222 {
+    margin-left: 25px;
+}
+.moo2222{
+    margin-left: 25px;
+}
+.cnop22 {
+    margin-left: 230px;
+    margin-top: -30px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-weight: 500;
+}
+.cnop22:hover {
+    background-color: rgb(239, 0, 0);
+}
+
+
+
+
+.moo33 {
+    width: 300px;
+    height: 300px;
+    margin-left: 25px;
+}
+.moo333 {
+    margin-left: 25px;
+}
+.moo3333 {
+    margin-left: 25px;
+}
+.cnop33 {
+    margin-left: 230px;
+    margin-top: -30px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-weight: 500;
+}
+.cnop33:hover {
+    background-color: rgb(239, 0, 0);
+}
+
+
+
+.moo44 {
+    width: 300px;
+    height: 300px;
+    margin-left: 25px;
+}
+.moo444 {
+    margin-left: 25px;
+}
+.moo4444 {
+    margin-left: 25px;
+}
+.cnop44 {
+    margin-left: 230px;
+    margin-top: -30px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-weight: 500;
+}
+.cnop44:hover {
+    background-color: rgb(239, 0, 0);
+}
+
+
+
+.moo55 {
+    width: 300px;
+    height: 300px;
+    margin-left: 25px;
+}
+.moo555 {
+    margin-left: 25px;
+}
+.moo5555 {
+    margin-left: 25px;
+}
+.cnop55 {
+    margin-left: 230px;
+    margin-top: -30px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-weight: 500;
+}
+.cnop55:hover {
+    background-color: rgb(239, 0, 0);
+}
+
+
+
+
+
+.box111 {
+    display: flex;
+    margin-top: 30px;
+}
+
+.botton1 {
+    margin-top: 30px;
+    height: 50px;
+    background-color: rgb(43, 43, 43);
+}
+
+
+
+
+
+
+.pro {
+    margin-top: 50px;
+    margin-left: 510px;
+    font-size: 25px;
+    line-height: 1,2;
+    color: white;
+}
+
+.pro-nas {
+    margin-left: 500px;
+    font-size: 50px;
+    font-weight: 700;
+    color: red;
+    line-height: 1;
+}
+
+.motoo {
+    width: 700px;
+    height: 700px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-left: 600px;
+    margin-top: 110px;
+}
+
+.bobo {
+    background: linear-gradient(
+        to right,
+        black 5%,
+        #222 30%,
+        #555 50%,
+        #ccc 60%,
+        red 90%,
+        #c00 100%
+      )
+}
+
+.coloor {
+    background: linear-gradient(
+        to right,
+        black 5%,
+        #222 30%,
+        #555 50%,
+        #ccc 60%,
+        red 90%,
+        #c00 100%
+      )
+}
+
+.botton11 {
+    height: 600px;
+    background: linear-gradient(
+        to right,
+        black 5%,
+        #222 30%,
+        #555 50%,
+        #ccc 60%,
+        red 90%,
+        #c00 100%
+      )
+}
