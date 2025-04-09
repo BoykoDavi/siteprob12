@@ -816,3 +816,141 @@ img{
         #c00 100%
       )
 }
+
+@media (max-width: 1350px) {
+    img {
+         width: 1560px;
+        height: 500px;
+    }
+}
+
+@media (max-width: 1350px) {
+    header {
+        width: 1560px;
+    }
+}
+
+@media (max-width: 1350px) {
+    .nav1 {
+        margin-left: -520px;
+    }
+}
+
+@media (max-width: 1350px) {
+    .moto11, .moto1 {
+        font-size: 23px;
+    }
+}
+
+@media (max-width: 1350px) {
+    .text1 {
+        margin-top: -100px;
+    }
+}
+
+@media (max-width: 1350px) {
+    .h11 {
+        font-size: 55px;
+    }
+}
+
+@media (max-width: 1350px) {
+    .h33 {
+        font-size: 19px;
+    }
+}
+
+
+
+@media (max-width: 1350px) {
+    .btn1 {
+        font-size: 18px;
+        background-color: red;
+        font-weight: 600;
+        width: 165px;
+        padding: 4px 70px 6px 20px;
+        border-radius: 30px;
+        margin-top: 24px;
+    }
+}
+
+
+
+    
+@media (max-width: 1350px) {
+    .imgaa {
+    width: 150px;
+    height: 120px;
+    margin-left: 40px;
+    }
+
+    .imga {
+    width: 150px;
+    height: 120px;
+    margin-left: 40px;
+    }
+
+    .imgaaa {
+    width: 150px;
+    height: 140px;
+    margin-left: 40px;
+    }
+}
+
+@media (max-width: 1350px){
+    .texttt{
+        margin-left: 110px;
+        font-size: 17px;
+        font-weight: 500;
+        margin-top: 10px;
+    }
+
+    .textttt {
+        margin-left: 150px;
+        font-size: 16px;
+        font-weight: 500;
+        margin-top: 10px;
+    }
+
+    .spanuanu{
+        font-size: 16px;
+        margin-left: 5px;
+    }
+
+    .texttttt {
+        margin-left: 145px;
+        font-size: 16px;
+        font-weight: 500;
+        margin-top: 10px;
+    }
+
+
+
+    .spanriz {
+        padding: 0px 0px 0px 22px;
+        font-size: 15px;
+        font-weight: 500;
+    }
+
+    .textttttt {
+        margin-left: 170px;
+        font-size: 16px;
+        font-weight: 500;
+    }
+
+    .texttttttt {
+        margin-left: 185px;
+        margin-top: 10px;
+        font-size: 16px;
+        font-weight: 500;
+        margin-top: 10px;
+    }
+
+
+    .h111 {
+        margin-top: 190px;
+        margin-left: 500px;
+        font-size: 34px;
+    }
+    
+}
